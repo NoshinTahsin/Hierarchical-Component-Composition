@@ -3,7 +3,7 @@ using ClassLibraryBookFinder;
 
 namespace DetermineBestSeller
 {
-    public class DetermineBestSeller
+    public class DetermineBestSeller:IDetermineBestSeller
     {
         public String sortList(String booklist)
         {
