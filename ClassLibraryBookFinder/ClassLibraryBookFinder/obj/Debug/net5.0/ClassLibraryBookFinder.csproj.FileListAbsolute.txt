@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Hierarchical Component Composition\ClassLibraryBookFinder\ClassLibraryBookFinder\bin\Debug\net5.0\ClassLibraryBookFinder.deps.json
+C:\Users\ASUS\source\repos\Hierarchical Component Composition\ClassLibraryBookFinder\ClassLibraryBookFinder\bin\Debug\net5.0\ClassLibraryBookFinder.dll
+C:\Users\ASUS\source\repos\Hierarchical Component Composition\ClassLibraryBookFinder\ClassLibraryBookFinder\bin\Debug\net5.0\ref\ClassLibraryBookFinder.dll
+C:\Users\ASUS\source\repos\Hierarchical Component Composition\ClassLibraryBookFinder\ClassLibraryBookFinder\bin\Debug\net5.0\ClassLibraryBookFinder.pdb
+C:\Users\ASUS\source\repos\Hierarchical Component Composition\ClassLibraryBookFinder\ClassLibraryBookFinder\obj\Debug\net5.0\ClassLibraryBookFinder.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Hierarchical Component Composition\ClassLibraryBookFinder\ClassLibraryBookFinder\obj\Debug\net5.0\ClassLibraryBookFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Hierarchical Component Composition\ClassLibraryBookFinder\ClassLibraryBookFinder\obj\Debug\net5.0\ClassLibraryBookFinder.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Hierarchical Component Composition\ClassLibraryBookFinder\ClassLibraryBookFinder\obj\Debug\net5.0\ClassLibraryBookFinder.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Hierarchical Component Composition\ClassLibraryBookFinder\ClassLibraryBookFinder\obj\Debug\net5.0\ClassLibraryBookFinder.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Hierarchical Component Composition\ClassLibraryBookFinder\ClassLibraryBookFinder\obj\Debug\net5.0\ClassLibraryBookFinder.dll
+C:\Users\ASUS\source\repos\Hierarchical Component Composition\ClassLibraryBookFinder\ClassLibraryBookFinder\obj\Debug\net5.0\ref\ClassLibraryBookFinder.dll
+C:\Users\ASUS\source\repos\Hierarchical Component Composition\ClassLibraryBookFinder\ClassLibraryBookFinder\obj\Debug\net5.0\ClassLibraryBookFinder.pdb
