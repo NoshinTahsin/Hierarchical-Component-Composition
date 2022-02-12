@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibraryBookFinder">
+      <HintPath>..\..\DetermineBestSeller\DetermineBestSeller\bin\Debug\net5.0\ClassLibraryBookFinder.dll</HintPath>
+    </Reference>
+    <Reference Include="DetermineBestSeller">
+      <HintPath>..\..\DetermineBestSeller\DetermineBestSeller\bin\Debug\net5.0\DetermineBestSeller.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
