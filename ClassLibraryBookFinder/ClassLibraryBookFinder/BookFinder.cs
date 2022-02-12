@@ -2,7 +2,7 @@
 
 namespace ClassLibraryBookFinder
 {
-    public class BookFinder
+    public class BookFinder:IBookFinder
     {
         public String findBooks(int year)
         {
